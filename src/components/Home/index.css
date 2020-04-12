@@ -13,6 +13,18 @@
   bottom: 0;
   right: 0;
   left: 0;
+  height: 200px;
   margin: auto;
-  height: 300px;
+  padding: 0 20px;
+}
+
+.home .text-container h1{
+  font-size: 30px;
+  color: #fff;
+  font-weight: bold;
+}
+
+.home .text-container p{
+  font-style: italic;
+  color: #868383;
 }
