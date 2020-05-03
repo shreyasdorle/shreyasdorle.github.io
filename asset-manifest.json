@@ -1,34 +1,33 @@
 {
   "files": {
-    "main.css": "/static/css/main.403fd216.chunk.css",
-    "main.js": "/static/js/main.17479c87.chunk.js",
-    "main.js.map": "/static/js/main.17479c87.chunk.js.map",
+    "main.css": "/static/css/main.c9258dc8.chunk.css",
+    "main.js": "/static/js/main.fd9c87be.chunk.js",
+    "main.js.map": "/static/js/main.fd9c87be.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.02b72ff5.js",
     "runtime-main.js.map": "/static/js/runtime-main.02b72ff5.js.map",
     "static/css/2.d788185a.chunk.css": "/static/css/2.d788185a.chunk.css",
-    "static/js/2.8c43dd28.chunk.js": "/static/js/2.8c43dd28.chunk.js",
-    "static/js/2.8c43dd28.chunk.js.map": "/static/js/2.8c43dd28.chunk.js.map",
+    "static/js/2.ea9c95d6.chunk.js": "/static/js/2.ea9c95d6.chunk.js",
+    "static/js/2.ea9c95d6.chunk.js.map": "/static/js/2.ea9c95d6.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.2d349c33fa79e95a8c1f5772b4f9b1c5.js": "/precache-manifest.2d349c33fa79e95a8c1f5772b4f9b1c5.js",
+    "precache-manifest.df57d66cea5764090ae63a07189ee0b3.js": "/precache-manifest.df57d66cea5764090ae63a07189ee0b3.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.d788185a.chunk.css.map": "/static/css/2.d788185a.chunk.css.map",
-    "static/css/main.403fd216.chunk.css.map": "/static/css/main.403fd216.chunk.css.map",
-    "static/js/2.8c43dd28.chunk.js.LICENSE.txt": "/static/js/2.8c43dd28.chunk.js.LICENSE.txt",
+    "static/css/main.c9258dc8.chunk.css.map": "/static/css/main.c9258dc8.chunk.css.map",
+    "static/js/2.ea9c95d6.chunk.js.LICENSE.txt": "/static/js/2.ea9c95d6.chunk.js.LICENSE.txt",
     "static/media/UE_logo.png": "/static/media/UE_logo.11b18f33.png",
     "static/media/asurion_logo.svg": "/static/media/asurion_logo.758b770a.svg",
     "static/media/background-image.jpg": "/static/media/background-image.bc2ae4a7.jpg",
     "static/media/freedom_logo.svg": "/static/media/freedom_logo.c03fda79.svg",
     "static/media/nagpur_university_logo.jpg": "/static/media/nagpur_university_logo.22098a50.jpg",
-    "static/media/profile.jpg": "/static/media/profile.24ce8737.jpg",
+    "static/media/profile.jpg": "/static/media/profile.118a3bbf.jpg",
     "static/media/sdsu_logo.jpg": "/static/media/sdsu_logo.648d7994.jpg",
-    "static/media/skills.jpg": "/static/media/skills.3bc467ce.jpg",
     "static/media/tvpage_logo.png": "/static/media/tvpage_logo.0f97401c.png"
   },
   "entrypoints": [
     "static/js/runtime-main.02b72ff5.js",
     "static/css/2.d788185a.chunk.css",
-    "static/js/2.8c43dd28.chunk.js",
-    "static/css/main.403fd216.chunk.css",
-    "static/js/main.17479c87.chunk.js"
+    "static/js/2.ea9c95d6.chunk.js",
+    "static/css/main.c9258dc8.chunk.css",
+    "static/js/main.fd9c87be.chunk.js"
   ]
 }
